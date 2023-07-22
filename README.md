@@ -13,6 +13,9 @@ It aimed to teach participants essential Infrastructure As Code (IAC) using Terr
 
 The cloud computing concepts of load balancing, auto-scaling, availability, message queues and publish/subscribe messaging were also covered through 2 individual projects during the workshop. <br>
 
+## Overview of Projects
+![image](https://github.com/LukeTL/TP-AAISIG-AWS-Cloud-Computing-Workshop-with-Terraform/assets/123274310/1cc74cb6-1a22-49f0-8637-76a3426855b4)
+
 ## Workshop Learning Content & Codes
 
 All the material taught during the workshop can be found in these folders within this GitHub Repository
