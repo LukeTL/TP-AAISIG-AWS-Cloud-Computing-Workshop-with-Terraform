@@ -5,8 +5,10 @@
 **Workshop Taught By**: Luke Thomas Lim 👾 | **Guides Prepared By**: Poh Jie Ren Luke 🙉
 
 ## Introduction
-The AWS Cloud Computing workshop aimed to teach participants essential Infrastructure As Code (IAC) using Terraform to provision and destroy AWS Infrastructure. <br>
+The AWS Cloud Computing Workshop was held by the Applied Artificial Intelligence Student Interest Group (AAISIG) of Temasek Polytechnic <br>
 
-The cloud computing concepts of load balancing, auto-scaling, availability, message queues and publish/subscribe messaging were taught through 2 individual projects during the workshop.
+It aimed to teach participants essential Infrastructure As Code (IAC) using Terraform to provision and destroy AWS Infrastructure. <br>
 
-The event was held by the Applied Artificial Intelligence Student Interest Group (AAISIG) of Temasek Polytechnic
+The cloud computing concepts of load balancing, auto-scaling, availability, message queues and publish/subscribe messaging were also covered through 2 individual projects during the workshop.
+
+
