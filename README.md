@@ -1,4 +1,4 @@
-# Temasek Polytechnic AAISIG AWS Cloud Workshop with Terraform
+# Temasek Polytechnic AAISIG AWS Cloud Computing Workshop with Terraform
 
 **AY 2023/2024** | 21 July 2023 1pm to 4pm | **100+ Particpants**<br>
 
