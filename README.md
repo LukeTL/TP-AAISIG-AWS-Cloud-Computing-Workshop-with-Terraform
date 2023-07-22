@@ -1,5 +1,7 @@
 # Temasek Polytechnic AAISIG AWS Cloud Computing Workshop with Terraform
 
+![image](https://github.com/LukeTL/TP-AAISIG-AWS-Cloud-Computing-Workshop-with-Terraform/assets/123274310/f0650f20-8698-4e10-8002-5724d98bc28c)
+
 **AY 2023/2024** | 21 July 2023 1pm to 4pm | **100+ Particpants**<br>
 
 **Workshop Taught By**: Luke Thomas Lim 👾 | **Guides Prepared By**: Poh Jie Ren Luke 🙉
