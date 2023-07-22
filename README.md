@@ -7,7 +7,7 @@
 **Workshop Prepared & Taught By**: Luke Thomas Lim 👾 | **Guides Prepared By**: Poh Jie Ren Luke 🙉
 
 ## Introduction
-The AWS Cloud Computing Workshop was held by the Applied Artificial Intelligence Student Interest Group (AAISIG) of Temasek Polytechnic <br>
+The AWS Cloud Computing Workshop was held by the Applied Artificial Intelligence Student Interest Group (AAISIG) of Temasek Polytechnic. <br>
 
 It aimed to teach participants essential Infrastructure As Code (IAC) using Terraform to provision and destroy AWS Infrastructure. <br>
 
