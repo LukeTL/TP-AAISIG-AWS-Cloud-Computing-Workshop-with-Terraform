@@ -14,8 +14,8 @@ The cloud computing concepts of load balancing, auto-scaling, availability, mess
 ## Workshop Content & Codes
 
 All the material taught during the workshop can be found in this GitHub Repository
-- 'Startup and Closeup Guides' folder: The workshop's intial setup and final closing intructions can be found here
-- 'Terraform Projects' folder: The 2 individual projects, Project A & Project B, can be found inside
-- 'Workshop Content Slides' folder: The introdution slides and educational material shown during the workshop is located here
+- `Startup and Closeup Guides` folder: The workshop's intial setup and final closing intructions can be found here
+- `Terraform Projects` folder: The 2 individual projects, Project A & Project B, can be found inside
+- `Workshop Content Slides` folder: The introdution slides and educational material shown during the workshop is located here
 
 
